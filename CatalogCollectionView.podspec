@@ -27,10 +27,10 @@ s.source = { :git => "https://github.com/chetan-ios/CatalogCollectionView.git",
 s.framework = "UIKit"
 
 # 8
-s.source_files = "CatalogCollectionView/**/*.{swift}"
+#s.source_files = "CatalogCollectionView/**/*.{swift}"
 
 # 9
-s.resources = "CatalogCollectionView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+#s.resources = "CatalogCollectionView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.2"
