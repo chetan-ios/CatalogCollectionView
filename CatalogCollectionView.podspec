@@ -8,7 +8,7 @@ s.summary = "CatalogCollectionView lets you ."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.1"
+s.version = "0.1.3"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -27,7 +27,7 @@ s.source = { :git => "https://github.com/chetan-ios/CatalogCollectionView.git",
 s.framework = "UIKit"
 
 # 8
-#s.source_files = "CatalogCollectionView/**/*.{swift}"
+s.source_files = "CatalogCollectionView/**/*.{swift}"
 
 # 9
 #s.resources = "CatalogCollectionView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
