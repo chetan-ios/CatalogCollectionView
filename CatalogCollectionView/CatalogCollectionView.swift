@@ -73,8 +73,10 @@ public class CatalogDataSource: UIView{
     }
     
     public func registerCellCollectionView(){
-        catalogCollectionView?.register(UINib(nibName:"CatalogCollectionViewCell",bundle: nil), forCellWithReuseIdentifier: "catalogCell")
+        catalogCollectionView?.register(UINib(nibName:"CatalogCollectionViewCell",bundle:Bundle(identifier: "com.arvind.CatalogCollectionView")), forCellWithReuseIdentifier: "catalogCell")
     }
+    
+    
     
 }
 
