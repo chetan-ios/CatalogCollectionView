@@ -8,7 +8,7 @@ s.summary = "CatalogCollectionView lets you ."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.6"
+s.version = "0.1.7"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -30,7 +30,7 @@ s.framework = "UIKit"
 s.source_files = "CatalogCollectionView/**/*.{swift}"
 
 # 9
-#s.resources = "CatalogCollectionView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+s.resources = "CatalogCollectionView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.2"
