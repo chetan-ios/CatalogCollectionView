@@ -8,7 +8,7 @@ s.summary = "CatalogCollectionView lets you ."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.7"
+s.version = "0.1.8"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -17,7 +17,7 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Chetan Kumar B V" => "chetan6chetan@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/TheCodedSelf/RWPickFlavor"
+s.homepage = "https://github.com/chetan-ios/CatalogCollectionView"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/chetan-ios/CatalogCollectionView.git",
